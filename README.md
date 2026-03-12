@@ -6,5 +6,7 @@ addition,subtraction,mutiplication,division at give
 input and it give output at once
 ## What i learned
 I learned how to use variable and 
-basic math operation in Python
+basic math operation in Python.
+## Author
+Tanzeel
 
